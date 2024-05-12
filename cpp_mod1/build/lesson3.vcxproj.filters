@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\katko\OneDrive\Рабочий стол\cpp_mod1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\katko\OneDrive\Рабочий стол\cpp_mod1\CmakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4EF61A8B-D7EC-30F8-8181-8A31426822D4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
